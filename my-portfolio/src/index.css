@@ -1,9 +1,0 @@
-/* src/index.css */
-@import "tailwindcss";
-
-/* Custom styles */
-@theme {
-  --font-sans: 'Inter', sans-serif;
-  --color-primary: #6366f1;
-  --color-secondary: #8b5cf6;
-}
